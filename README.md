@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains the results of my Bachelors thesis. It is an image classification model (Convolutional Neural Network) to classify persons wearing a mask or no mask.
-It contains the dataset, Data Augmentation, Training, Test and Deployment. 
+It contains the dataset, Data Augmentation, Training and Test. 
 
 ## Instructions
 - Use data_augmentation.ipynb to perform Data Augmentation on training dataset.
